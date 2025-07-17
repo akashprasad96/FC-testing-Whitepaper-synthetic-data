@@ -1,6 +1,6 @@
 # FC-Testing Performance Analysis (Sanitized Demo)
 
-> **TL;DR** – North-American (NA) fulfillment centers lagged their EU peers in test-case throughput.  
+> – North-American (NA) fulfillment centers lagged their EU peers in test-case throughput.  
 > This repo shows how we uncovered root causes, quantified the gap, and rolled out fixes that are on track to close **>50 %** of the performance delta.
 
 ---
